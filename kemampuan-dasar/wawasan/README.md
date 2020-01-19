@@ -13,6 +13,11 @@ Komputer elektronik awal seperti Colossus memanfaatkan pita berlubanguntuk penyi
 Databases
 Database Management Systems (DMS) muncul pada 1960-an untuk mengatasi masalah penyimpanan dan pengambilan data dalam jumlah besar secara akurat dan cepat. Sistem awal semacam itu adalah Sistem Manajemen Informasi (IMS) IBM.
 
+
+
+
+
+
 # 2 Perbedaan ilmu komputer dengan informatika
 Ilmu komputer adalah studi tentang teori, eksperimen, dan teknik yang membentuk dasar untuk desain dan penggunaan komputer. Ini adalah pendekatan ilmiah dan praktis untuk komputasi dan penerapannya serta studi sistematis tentang kelayakan, struktur, ekspresi, dan mekanisasi dari prosedur metodis (atau algoritma) yang mendasari akuisisi, representasi, pemrosesan, penyimpanan, komunikasi, dan akses untuk informasi. Definisi alternatif, lebih ringkas dari ilmu komputer adalah studi tentang mengotomatisasi proses algoritme yang berskala. Seorang ilmuwan komputer mengkhususkan diri dalam teori komputasi dan desain sistem komputasi. Sedangkan, informatika adalah cabang dari rekayasa informasi. Ini melibatkan praktik pengolahan informasi dan rekayasa sistem informasi, dan sebagai bidang akademik itu adalah bentuk ilmu informasi yang diterapkan. Bidang ini mempertimbangkan interaksi antara manusia dan informasi di samping pembangunan antarmuka, organisasi, teknologi dan sistem. Dengan demikian, bidang informatika sangat luas dan mencakup banyak subspesialisasi, termasuk disiplin ilmu komputer, sistem informasi, teknologi informasi, dan statistik. Sejak munculnya komputer, individu dan organisasi semakin memproses informasi secara digital. Ini telah mengarah pada studi informatika dengan aspek komputasi, matematika, biologis, kognitif dan sosial, termasuk studi dampak sosial dari teknologi informasi.
 
