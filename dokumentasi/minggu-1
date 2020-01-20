@@ -1,0 +1,9 @@
+MINGGU 01
+HARI   01
+
+1. Install JDK8 dan OpenJDK melalui file tar.gz di direktori usr/lib/jvm
+2. melalukan setting di https://www.javahelps.com/2015/03/install-oracle-jdk-in-ubuntu.html
+3. coba HelloWorld
+4. Install Addon Java Package di VSCode
+5. Mempelajari .jar di https://docs.oracle.com/javase/tutorial/deployment/jar/
+
