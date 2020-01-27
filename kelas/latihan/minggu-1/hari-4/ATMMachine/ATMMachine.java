@@ -11,7 +11,7 @@ public class ATMMachine
     {
         if(BalanceInquiry.balance==0)
         {
-            System.out.println("\tYour current balance is zero.");
+            System.out.println("\tYour current balance is zero.1");
             System.out.println("\tYou cannot withdraw!");
             System.out.println("\tYou need to deposit money first.");
         }

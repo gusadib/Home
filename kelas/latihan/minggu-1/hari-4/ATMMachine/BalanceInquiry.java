@@ -1,6 +1,6 @@
 public class BalanceInquiry extends ATMMachine
 {
-    static double balance = 0;
+    static double balance = 0; //static adalah buat baru tanpa inisiasi kelas
     public void setBalance(double b)
     {
         balance = b;
