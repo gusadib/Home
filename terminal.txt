@@ -38,3 +38,14 @@ sudo rm -iR (namafolder)
 
 
 
+error handling gradle-maria:
+1. drop user 'root'@'localhost';
+2. create user 'root'@'localhost' identified by '';
+3. use mysql;
+4. select * from user;
+5. grant all privileges on *.* to 'root'@'localhost' with grant option;
+6. select * from user;
+7. flush privileges;
+
+
+
