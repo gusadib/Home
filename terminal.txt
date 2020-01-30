@@ -1,0 +1,40 @@
+mariadb
+mysqladmin --version
+mysql> SHOW DATABASE
+mysql -u root -p
+sudo mysql_secure_installation
+
+
+sudo systemctl stop mariadb
+sudo mysqladmin -u root -p shutdown
+sudo systemctl start mariadb
+sudo systemctl restart mariadb
+
+update root:
+UPDATE mysql.user SET plugin = 'mysql_native_password' WHERE user = 'root' AND plugin = 'unix_socket';
+
+FLUSH PRIVILEGES;
+
+sudo nano /etc/mysql/mariadb.conf.d/50-server.cnf
+
+
+xampp
+sudo /opt/lampp/xampp startrm
+sudo /opt/lampp/xampp startapache
+sudo /opt/lampp/xampp startftp
+sudo /opt/lampp/xampp startmysql
+
+sudo /opt/lampp/xampp stop
+sudo /opt/lampp/xampp stopapache
+sudo /opt/lampp/xampp stopftp
+sudo /opt/lampp/xampp stopmysql
+sudo /opt/lampp/xampp restart
+
+sudo /opt/lampp/uninstall
+
+HAPUS FOLDER
+sudo rm -R (namafolder)
+sudo rm -iR (namafolder)
+
+
+
