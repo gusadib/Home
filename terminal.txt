@@ -48,4 +48,7 @@ error handling gradle-maria:
 7. flush privileges;
 
 
+fish
+
+chsh -s /usr/bin/fish
 
