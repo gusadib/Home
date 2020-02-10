@@ -52,3 +52,22 @@ fish
 
 chsh -s /usr/bin/fish
 
+
+
+MONGODB (FULL INSTAL DAN UNINSTAL DI MANUAL)
+
+UNINSTALL
+sudo service mongod stop
+sudo apt-get purge mongodb-org*
+sudo rm -r /var/log/mongodb
+sudo rm -r /var/lib/mongodb
+
+
+KNOWING PACKAGE
+
+dpkg -l | grep -i docker
+sudo find / -name "*docker*" -exec `rm -rf` {} + (delete all file related) 
+
+
+
+
